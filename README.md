@@ -1,6 +1,6 @@
 Hey! I'm @swifty94 (Kirill Rudenko) 👋
 
-I'm an Implementation Engineer, Linux/Unix enthusiast, and amateur software developer from Ukraine :yellow_heart::blue_heart:
+I'm an Implementation Engineer, Linux/Unix enthusiast, and semi-amateur software developer from Ukraine :yellow_heart::blue_heart:
 
 I will be posting in my repositories:
 
